@@ -1,0 +1,17 @@
+@import "pages/portfolio";
+
+
+.navbar-dark .ion, .navbar-dark .fab{
+  color: rgba(255, 255, 255, 0.8)!important;
+}
+form .small{
+  font-size: 11px!important;
+}
+.xsmall{
+  font-size: 10px!important;
+}
+@media only screen and (max-width: 575px) {
+  .display-2{
+    font-size: 3rem;
+  }
+}
