@@ -12,9 +12,9 @@ $(function() {
         delay: 4000,
         disableOnInteraction: false,
       },
-      navigation: {
-        prevEl: '.swiper-button-prev.portfolio-slider-nav',
-        nextEl: '.swiper-button-next.portfolio-slider-nav'
+      pagination: {
+        el: '.swiper-pagination',
+        clickable: true
       }
     });
   });
