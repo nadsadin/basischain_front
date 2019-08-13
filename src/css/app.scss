@@ -1,6 +1,3 @@
-@import "pages/portfolio";
-
-
 .navbar-dark .ion, .navbar-dark .fab{
   color: rgba(255, 255, 255, 0.8)!important;
 }
@@ -24,4 +21,14 @@ form .small{
 }
 .ui-user-description{
   color: #757575;
+  font-weight: 300;
+  font-size: 12px;
+}
+.navbar-brand{
+  letter-spacing: -0.04em;
+}
+.post-body{
+  font-size: 120%;
+  line-height: 1.5;
+  font-weight: 300;
 }
